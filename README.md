@@ -1,2 +1,2 @@
 # Basic-Python
-Finding the prime number and composite number 
+A Simple python program to find prime number and composite number and return the count of it.
